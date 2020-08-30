@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Naresh Technologies, Ameerpet, Hyderabad.</h2>
+			<h2>Welcome To VK Technologies, Velachery, Chennai.</h2>
 			<h3>Contact @ +91-8220331488</h3>
 		</div>	
 	</div>
@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2019</p>
+		<p>&copy; VK Technologies 2019</p>
 	</footer>
 </div>
 
